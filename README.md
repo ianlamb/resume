@@ -5,13 +5,13 @@ British Columbia, Canada<br>
 ianlamb32@gmail.com<br>
 https://ianlamb.com
 
-### SUMMARY
+## SUMMARY
 
 Full-stack developer with a focus on building elegant, usable web interfaces. 10+ years of experience. Capable of effectively leading small teams.
 
-### WORK EXPERIENCE
+## WORK EXPERIENCE
 
-#### Senior Software Engineer @ Improbable
+### Senior Software Engineer @ Improbable
 
 > Canada (Remote) | January 2020 – Present
 
@@ -19,7 +19,7 @@ In the Online Services group I am leading a small cross-cutting team developing 
 
 Additionally, I have contributed to real-time game services such as multiplayer lobby (Node/TypeScript), authentication (Go) and in-game chat (ejabberd/XMPP). I am also involved in managing our infrastructure (AWS, Kubernetes, Docker), CI/CD systems (Buildkite, GitHub Actions) and metrics (Prometheus, Grafana, Kibana).
 
-#### Senior Software Engineer @ Blizzard Entertainment
+### Senior Software Engineer @ Blizzard Entertainment
 
 > Irvine, CA | January 2016 – January 2020
 
@@ -31,7 +31,7 @@ Additionally, I spent some time working on the _Starcraft: Remastered UI_ which 
 
 Lastly, an interesting project I spent my final year on was an internal React-based WYSIWYG website builder. The goal of the project was to enable designers to quickly put together standalone marketing pages using re-usable blocks that still had the power of an engineered website. Imagine a tool like Figma where your prototypes "compiled" to React and can utilize React components made by developers. It was used successfully in production at least a few times before I left, including the _Diablo: Immortal_ website.
 
-#### Web UI Developer @ Cineplex Digital Networks
+### Web UI Developer @ Cineplex Digital Networks
 
 > London, ON | June 2014 – December 2015
 
@@ -39,7 +39,7 @@ At CDN (known as "EK3" before Cineplex acquired the company) I was mainly involv
 
 Another piece to this project that was built from scratch while I was on the team was introducing interactive marketing content to these devices. I developed the web framework for the content which was a combination of videos and images created by our marketing team, stitched together with interactive zones into sort of a storyboard user flow. This allowed customers in the store to physically engage and learn about a product that would be right there on the shelf next to the device.
 
-#### Solutions Developer @ GoodLife Fitness
+### Solutions Developer @ GoodLife Fitness
 
 > London, ON | January 2013 – June 2014
 
@@ -47,29 +47,29 @@ At GoodLife I worked on the fitness club management system used across the compa
 
 I also lead a sizable effort to redesign the entire look and feel of the core system using Bootstrap and a custom theme that matched the company's new brand, as well as migrating from VBScript to JavaScript. The main drive was to modernize and unify the UI so the system was easier to use by club employees and could run on modern browsers. It started as a hackathon idea that I was able to push forward and get buy-in from our director and VP to fund the project.
 
-#### Software Developer (co-op) @ BlackBerry
+### Software Developer (co-op) @ BlackBerry
 
 > Waterloo, ON | May 2012 – August 2012
 
 Collaborated on porting SlipStream's proxy client (C/C++) from Linux to QNX. Mainly I developed a tablet-optimized web interface for managing configuration settings.
 
-#### Software Developer (co-op) @ Info-Tech Research Group
+### Software Developer (co-op) @ Info-Tech Research Group
 
 > London, ON | September 2011 – December 2011
 
 Worked on small improvements to the core client-facing website built with Ruby on Rails and also worked on some features in SalesForce. This job also introduced me to many modern development methodologies and tools such as Agile Scrum and Git source control.
 
-#### Web Developer (co-op) @ Lawson Research Institute
+### Web Developer (co-op) @ Lawson Research Institute
 
 > London, ON | December 2010 – April 2011
 
 Worked on a secure patient portal for capturing data in medical studies. I was involved in all aspects of the project which was done in JavaScript, PHP (CodeIgniter), and MySQL.
 
-### EDUCATION
+## EDUCATION
 
-#### Computer Programmer Analyst @ Fanshawe College
+### Computer Programmer Analyst @ Fanshawe College
 
 > London, ON | September 2009 – December 2012
 
-**Ontario College Advanced Diploma**
+**Ontario College Advanced Diploma**<br>
 _President's Honour Roll Recipient_
