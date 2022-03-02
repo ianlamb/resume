@@ -21,7 +21,7 @@ Additionally, I have contributed to real-time game services such as multiplayer 
 
 ### Senior Software Engineer @ Blizzard Entertainment
 
-> Irvine, CA | January 2016 – January 2020
+> Irvine, CA | January 2016 – January 2020 (4 years)
 
 In the Web &amp; Mobile department I spent 4 years delivering high quality web experiences for players. Some of these projects included _BlizzCon_, _Overwatch_, _Overwatch League_, and _Overwatch Contenders_. Some of the requirements I worked with regularly were mobile-first design, CMS-powered content, functional styleguides, internationalization, browser &amp; device support, performance, SEO, and pixel-perfect design execution.
 
@@ -33,7 +33,7 @@ Lastly, an interesting project I spent my final year on was an internal React-ba
 
 ### Web UI Developer @ Cineplex Digital Networks
 
-> London, ON | June 2014 – December 2015
+> London, ON | June 2014 – December 2015 (1.5 years)
 
 At CDN (known as "EK3" before Cineplex acquired the company) I was mainly involved in a new project to realize the potential of an interactive kiosk system for retail stores. We worked with an inventory of tablets designed for commercial use which ran various web content in a stripped down Android OS, for example an in-store catalog that customers could use to find the items they're looking for. Most of my contributions here were in the back-end management system (Java Spring) that communicated with the inventory of tablets and allowed administrators to remotely control devices (update content, reboot device, etc).
 
@@ -41,7 +41,7 @@ Another piece to this project that was built from scratch while I was on the tea
 
 ### Solutions Developer @ GoodLife Fitness
 
-> London, ON | January 2013 – June 2014
+> London, ON | January 2013 – June 2014 (1.5 years)
 
 At GoodLife I worked on the fitness club management system used across the company at over 300 locations. The system was initially developed in ASP with a SQL Server data layer. I maintained some of the original ASP features and also developed some of the first ones done in ASP.NET MVC. This technology was also used to develop some customer-facing solutions such as a stream-lined 14-day Trial Membership sign-up for customers.
 
@@ -49,19 +49,19 @@ I also lead a sizable effort to redesign the entire look and feel of the core sy
 
 ### Software Developer (co-op) @ BlackBerry
 
-> Waterloo, ON | May 2012 – August 2012
+> Waterloo, ON | May 2012 – August 2012 (4 months)
 
 Collaborated on porting SlipStream's proxy client (C/C++) from Linux to QNX. Mainly I developed a tablet-optimized web interface for managing configuration settings.
 
 ### Software Developer (co-op) @ Info-Tech Research Group
 
-> London, ON | September 2011 – December 2011
+> London, ON | September 2011 – December 2011 (4 months)
 
 Worked on small improvements to the core client-facing website built with Ruby on Rails and also worked on some features in SalesForce. This job also introduced me to many modern development methodologies and tools such as Agile Scrum and Git source control.
 
 ### Web Developer (co-op) @ Lawson Research Institute
 
-> London, ON | December 2010 – April 2011
+> London, ON | December 2010 – April 2011 (4 months)
 
 Worked on a secure patient portal for capturing data in medical studies. I was involved in all aspects of the project which was done in JavaScript, PHP (CodeIgniter), and MySQL.
 
@@ -69,7 +69,7 @@ Worked on a secure patient portal for capturing data in medical studies. I was i
 
 ### Computer Programmer Analyst @ Fanshawe College
 
-> London, ON | September 2009 – December 2012
+> London, ON | September 2009 – December 2012 (3 years)
 
 **Ontario College Advanced Diploma**<br>
 _President's Honour Roll Recipient_
