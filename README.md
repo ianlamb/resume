@@ -7,7 +7,7 @@ https://ianlamb.com
 
 ## SUMMARY
 
-Full-stack developer with a focus on building elegant, usable web interfaces. 10+ years of experience. Capable of effectively leading small teams.
+Full-stack developer with a focus on building elegant, usable web interfaces. 10+ years of experience. Effective leader of small teams.
 
 ## WORK EXPERIENCE
 
