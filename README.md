@@ -13,7 +13,7 @@
 
 ## SUMMARY
 
-Full-stack developer with a focus on building elegant, usable web interfaces. 10+ years of experience delivering solutions in enterprise environments. Effective leader of small teams.
+Full-stack developer with a focus on building elegant, usable web interfaces. 10+ years of experience delivering solutions in enterprise environments. Effective and pragmatic leader for small teams.
 
 ## WORK EXPERIENCE
 
