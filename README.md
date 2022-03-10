@@ -1,13 +1,19 @@
 # Ian Lamb
 
-Senior Software Engineer<br>
-British Columbia, Canada<br>
-ianlamb32@gmail.com<br>
-https://ianlamb.com
+<div class="contact">
+  <div>
+    <div>Senior Software Engineer</div>
+    <div>British Columbia, Canada</div>
+  </div>
+  <div>
+    <div>ianlamb32@gmail.com</div>
+    <div>https://ianlamb.com</div>
+  </div>
+</div>
 
 ## SUMMARY
 
-Full-stack developer with a focus on building elegant, usable web interfaces. 10+ years of experience. Effective leader of small teams.
+Full-stack developer with a focus on building elegant, usable web interfaces. 10+ years of experience delivering solutions in enterprise environments. Effective leader of small teams.
 
 ## WORK EXPERIENCE
 
@@ -71,5 +77,5 @@ Worked on a secure patient portal for capturing data in medical studies. I was i
 
 > London, ON | September 2009 – December 2012 (3 years)
 
-**Ontario College Advanced Diploma**<br>
-_President's Honour Roll Recipient_
+<div><strong>Ontario College Advanced Diploma</strong></div>
+<div><i>President's Honour Roll Recipient</i></div>

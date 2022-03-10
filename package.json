@@ -1,0 +1,23 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Senior Software Engineer<br>\r British Columbia, Canada<br>\r ianlamb32@gmail.com<br>\r https://ianlamb.com",
+  "main": "index.js",
+  "scripts": {
+    "build": "mdpdf README.md --header=header.html --footer=footer.html --style=style.css --gh-style=true --debug && move-cli README.pdf il_resume.pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianlamb/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianlamb/resume/issues"
+  },
+  "homepage": "https://github.com/ianlamb/resume#readme",
+  "dependencies": {
+    "mdpdf": "^2.1.2",
+    "move-cli": "^2.0.0"
+  }
+}

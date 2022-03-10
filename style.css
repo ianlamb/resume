@@ -1,0 +1,14 @@
+.markdown-body h2 {
+    margin-top: 16px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: row;
+}
+.contact > div {
+    flex: 1;
+}
+.contact > div:nth-of-type(2) {
+    text-align: right;
+}
