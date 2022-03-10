@@ -33,9 +33,9 @@ In the Web &amp; Mobile department I spent 4 years delivering high quality web e
 
 On top of product development I also helped to guide the technical direction of the web organization. Migrating from Java to Node for easier API development and maintenance meant building out shared middleware and libraries that other teams used. I introduced front-end technologies like SCSS and React in order to keep up with the demanding interactivity of our sites. Moving to the cloud was also a big departmental focus, so I was actively working with AWS, Docker, Jenkins, Spinnaker, etc to make that transition.
 
-Additionally, I spent some time working on the _Starcraft: Remastered UI_ which blended web technologies (Preact) with the game client via CEF. Building a web UI to match the look and feel of a 20 year old game had some interesting hurdles, but overall it was very successful.
+Additionally, I spent some time working on the _Starcraft: Remastered_ UI which blended web technologies (Preact) with the game client via CEF. Building a web UI to match the look and feel of a 20 year old game had some interesting and rewarding challenges to overcome.
 
-Lastly, an interesting project I spent my final year on was an internal React-based WYSIWYG website builder. The goal of the project was to enable designers to quickly put together standalone marketing pages using re-usable blocks that still had the power of an engineered website. Imagine a tool like Figma where your prototypes "compiled" to React and can utilize React components made by developers. It was used successfully in production at least a few times before I left, including the _Diablo: Immortal_ website.
+Lastly, an interesting project I spent my final year on was an internal React-based WYSIWYG website builder. The goal of the project was to enable designers to quickly put together standalone marketing pages using re-usable widgets that still had the power of a hand-crafted site. Imagine a tool like Figma where your prototypes "compiled" to React and can utilize React components made by developers. It was used successfully in production at least a few times before I left, including the _Diablo: Immortal_ website.
 
 ### Web UI Developer @ Cineplex Digital Networks
 
