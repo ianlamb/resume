@@ -4,7 +4,8 @@
   "description": "Senior Software Engineer<br>\r British Columbia, Canada<br>\r ianlamb32@gmail.com<br>\r https://ianlamb.com",
   "main": "index.js",
   "scripts": {
-    "build": "mdpdf README.md --header=header.html --footer=footer.html --style=style.css --gh-style=true --debug && move-cli README.pdf il_resume.pdf"
+    "build": "mdpdf README.md --header=header.html --footer=footer.html --style=style.css --gh-style=true --debug && move-cli README.pdf il_resume.pdf",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,8 @@
   "dependencies": {
     "mdpdf": "^2.1.2",
     "move-cli": "^2.0.0"
+  },
+  "devDependencies": {
+    "husky": "^7.0.0"
   }
 }
