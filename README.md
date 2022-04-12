@@ -13,7 +13,7 @@
 
 ## SUMMARY
 
-Senior Frontend/Fullstack Engineer with a knack for building elegant, usable web interfaces. 10+ years of experience delivering solutions in enterprise environments. Effective and pragmatic leader for small teams.
+Senior Front-End/Full-Stack Engineer with a knack for building elegant, usable web interfaces. 10+ years of experience delivering solutions in enterprise environments. Effective and pragmatic leader for small teams.
 
 ## WORK EXPERIENCE
 
@@ -21,49 +21,54 @@ Senior Frontend/Fullstack Engineer with a knack for building elegant, usable web
 
 > Canada (Remote) | January 2020 – Present
 
--   Lead and mentor a small cross-cutting team that builds frontend web tools for managing game services.
--   Architected a real-time event service that allows pre-scheduled events to automatically re-configure a live-service game.
--   Established best practices and shared libraries that provide UX and development consistency across different frontend experiences.
--   Lead the development of the management interface for a game-agnostic, skill-based matchmaker service that provides high-fidelity queue configuration.
--   Designed and developed the login and administrative experiences for a player auth and identity provider, enabling cross-platform gameplay and account-linking.
--   Orchestrated and deployed an in-game chat service using Ejabberd/XMPP that scaled to 20k real CCU and performed load test validation for over 100k using horizontal pod scaling.
+Tools & Interfaces Tech Lead
+
+-   Leading and mentoring a small cross-cutting team that builds front-end web tools for development operations and customers-alike to manage game services.
+-   Organised online presence and pair programming routines to integrate and connect distributed team members.
+-   Established UI development practices to ensure UX consistency across a suite of admin panels.
+-   Collaborated with back-end engineers to develop the login and administrative experiences for a player auth and identity provider, enabling cross-platform gameplay and account-linking. Over 1.5M accounts were created through this system during _Scavengers_ Early Access.
+
+Game Services Engineer
+
+-   Orchestrated and deployed an in-game chat service using Ejabberd/XMPP that scaled to 20k real CCU. Performed load tests to validate a theoretical capacity of 100k CCU with horizontal scaling implemented.
 -   Developed a game-specific real-time multiplayer lobby service in TypeScript/Node that scaled to 20k CCU using WebSockets and Redis Pub/Sub.
--   Manage Kubernetes and AWS infrastructure with Terraform to enable a horizontally scalable and resilient micro-services architecture.
--   Improve developer experience by making auto-generated API docs, establishing version/release protocols and configuring CI/CD pipelines with Buildkite/GitHub Actions.
+-   Architected a real-time event service that allows pre-scheduled events to automatically re-configure a live-service game.
+-   Improved developer experience by making auto-generated API docs, establishing version/release protocols and configuring CI/CD pipelines with Buildkite/GitHub Actions.
+-   Deployed services to Kubernetes clusters and managed AWS infrastructure with Terraform.
 -   Setup service metrics and alerts using Prometheus and Grafana to monitor service stability and troubleshoot live-ops issues.
 
 ### Senior Software Engineer @ Blizzard Entertainment
 
 > Irvine, CA | January 2016 – January 2020 (4 years)
 
+-   Architected and implemented features of a React-based WYSIWYG website builder that blended the usability of a designer tool like Figma with the power of data-driven components. This tool was used to launch several production websites, cutting development costs significantly and empowering designers to execute their own vision.
 -   Developed and shipped a re-imagination of the _BlizzCon_ website, which handled peak CCUs over 200k and featured live-stream integration and a highly time-sensitive, self-updating event calendar. This was one of the first mobile-first designs implemented on a Blizzard site and the first to be run on AWS/Node.
--   Improved webpack development pipeline and built web UI components with Preact for _StarCraft: Remastered_ game.
--   Built a highly re-usable and themeable styleguide and component library that enabled faster development of _Overwatch_-related experiences while maintaining brand consistency.
--   Introduced the team to React and Next.js to meet the demanding interactivity and performance requirements of the _Overwatch League_ and _Overwatch Contenders_ websites which featured live streams and data-driven resources such as players, teams, matches and stats as you might see on a sports league site like nhl.com.
--   Integrated non-scalable data sources (data APIs, CMS) with our public-facing sites, building proxy APIs and utilizing caching layers to handle the large CCU spikes we would get during events and game announcements.
--   Architected and implemented features of a React-based WYSIWYG website builder that blended the usability of a designer tool like Figma with the power of fully engineered components. This tool was used to launch several production websites, including _Warcraft III: Reforged_ and _Diablo: Immortal_, cutting development costs significantly and empowering designers to execute on their own vision.
--   Demonstrated the potential cost-efficiency of AWS Lambda/API Gateway by converting a low-traffic beta opt-in service from dedicated hosting, reducing running costs to ~\$0.02/day while maintaining speed and availability.
+-   Built a highly reusable and themeable style guide and component library that enabled faster development of _Overwatch_-related experiences while maintaining brand consistency.
+-   Introduced the team to React and Next.js to meet the demanding interactivity and performance requirements of our esports websites which featured live streams, schedules and data-rich resources such as players, teams, matches, stats, etc.
+-   Integrated non-scalable data sources (data APIs, CMS) with our public-facing sites, building proxy APIs and utilising caching layers to handle the large CCU spikes we would get during events and game announcements.
+-   Improved webpack development pipeline and built web components with Preact for the _StarCraft: Remastered_ in-game UI.
+-   Demonstrated the potential cost-efficiency of AWS Lambda/API Gateway by converting a low-traffic beta opt-in service from dedicated hosting, reducing running costs to coffee change while maintaining speed and availability.
 
 ### Web UI Developer @ Cineplex Digital Networks
 
 > London, ON | June 2014 – December 2015 (1.5 years)
 
--   Developed features in a suite of Java micro-services that managed a scalable network of devices (tablets), enabling operational functions like remote content delivery, reboots, heartbeat monitoring, etc.
--   Wrote automated system tests that would run through every step of the software lifecycle from spinning up databases with seed data to running Android VMs and interacting with services, increasing release confidence and driving down regression numbers.
--   Designed and developed JavaScript web framework for Android browsers that allowed videos and images to be turned into an interactive tablet experience, allowing in-store customers to explore information about a shelf product.
+-   Designed and developed a JavaScript web framework for Android browsers that allowed video and image content to be presented to in-store customers as an interactive experience for learning about a product.
+-   Developed features in a suite of Java microservices that managed a scalable network of devices (tablets), enabling operational functions like remote content delivery, reboots, heartbeat monitoring, etc.
+-   Wrote automated system tests that ran through every step of the software lifecycle from spinning up databases with seed data to running Android VMs and interacting with services, increasing release confidence and driving down regressions.
 
 ### Solutions Developer @ GoodLife Fitness
 
 > London, ON | January 2013 – June 2014 (1.5 years)
 
--   Developed a digital, stream-lined 14-day Trial Membership sign-up which had a measurable increase in customer acquisition by lowering the barrier to getting into the fitness clubs for first-timers.
--   Lead a sizable effort to redesign the club management system used by employees at over 300 locations. As well as refreshing the look and feel to be on-brand, it also allowed us to migrate away from VBScript which meant the clubs could upgrade their systems to modern browsers and fix the security vulnerabilities of running very old operating systems.
+-   Led a sizable effort to redesign the club management system used by employees at over 300 locations. As well as refreshing the look and feel to be on-brand, we migrated away from VBScript which enabled clubs to upgrade their systems.
+-   Developed a digital, stream-lined 14-day Trial Membership sign-up which had a measurable increase in customer acquisition by lowering the barrier for first-timers to get into the fitness clubs.
 
 ### Software Developer (co-op) @ BlackBerry
 
 > Waterloo, ON | May 2012 – August 2012 (4 months)
 
--   Developed a tablet-optimized web app for managing config settings for SlipStream's compression proxy client.
+-   Developed a tablet-optimised web app for managing config settings for SlipStream's compression proxy client.
 -   Performed debugging and analysis in a C++ based socket library.
 
 ### Software Developer (co-op) @ Info-Tech Research Group
