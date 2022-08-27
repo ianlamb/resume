@@ -17,13 +17,21 @@ Senior Front-End/Full-Stack Engineer with a knack for building elegant, usable w
 
 ## WORK EXPERIENCE
 
+### Senior Software Consultant @ Test Double
+
+> Canada (Remote) | June 2022 – Present
+
+ZipRecruiter
+
+-   Developing features for the job seeker search experience with a cross-functional team that heavily utilizes data science and AB testing to validate improvements.
+
 ### Senior Software Engineer @ Improbable
 
-> Canada (Remote) | January 2020 – Present
+> Canada (Remote) | January 2020 – May 2022
 
 Tools & Interfaces Tech Lead
 
--   Leading and mentoring a small cross-cutting team that builds front-end web tools for development operations and customers-alike to manage game services.
+-   Lead and mentored a small cross-cutting team that builds front-end web tools for development operations and customers-alike to manage game services.
 -   Organised online presence and pair programming routines to integrate and connect distributed team members.
 -   Established UI development practices to ensure UX consistency across a suite of admin panels.
 -   Collaborated with back-end engineers to develop the login and administrative experiences for a player auth and identity provider, enabling cross-platform gameplay and account-linking. Over 1.5M accounts were created through this system during _Scavengers_ Early Access.
