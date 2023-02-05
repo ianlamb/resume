@@ -21,7 +21,7 @@ Senior Front-End/Full-Stack Engineer with a knack for building elegant, usable w
 
 > Canada (Remote) | June 2022 – Present
 
-ZipRecruiter
+Client: ZipRecruiter
 
 -   Developing features for the job seeker search experience with a cross-functional team that heavily utilizes data science and AB testing to validate improvements.
 
