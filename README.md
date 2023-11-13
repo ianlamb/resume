@@ -2,7 +2,7 @@
 
 <div class="contact">
   <div>
-    <div>Senior Software Engineer</div>
+    <div>Senior Software Engineer & Consultant</div>
     <div>British Columbia, Canada</div>
   </div>
   <div>
@@ -24,6 +24,9 @@ Senior Front-End/Full-Stack Engineer with a knack for building elegant, usable w
 Client: ZipRecruiter
 
 -   Developing features for the job seeker search experience with a cross-functional team that heavily utilizes data science and AB testing to validate improvements.
+-   Implementing and championing a new design system component library used across the organization for higher quality and consistency.
+-   Mentoring junior engineers on writing clean and composable React, UI testing best practices, etc.
+-   Setting standards and best practices for the engineering org and improving front-end tooling to increase developer experience and code quality.
 
 ### Senior Software Engineer @ Improbable
 
@@ -31,7 +34,7 @@ Client: ZipRecruiter
 
 Tools & Interfaces Tech Lead
 
--   Lead and mentored a small cross-cutting team that builds front-end web tools for development operations and customers-alike to manage game services.
+-   Led and mentored a small cross-cutting team that builds front-end web tools for development operations and customers-alike to manage game services.
 -   Organised online presence and pair programming routines to integrate and connect distributed team members.
 -   Established UI development practices to ensure UX consistency across a suite of admin panels.
 -   Collaborated with back-end engineers to develop the login and administrative experiences for a player auth and identity provider, enabling cross-platform gameplay and account-linking. Over 1.5M accounts were created through this system during _Scavengers_ Early Access.
