@@ -1,6 +1,26 @@
+.markdown-body h1,
 .markdown-body h2 {
-    margin-top: 16px;
+    border-color: #4078c0;
 }
+
+.markdown-body h2 {
+    margin-top: 24px;
+}
+
+.markdown-body p {
+    margin-bottom: 8px;
+}
+
+.markdown-body blockquote {
+    margin-top: -12px;
+    margin-bottom: 8px;
+    border-color: #4078c0;
+}
+
+.markdown-body ul {
+    list-style-type: square;
+}
+
 
 .contact {
     display: flex;
@@ -11,4 +31,13 @@
 }
 .contact > div:nth-of-type(2) {
     text-align: right;
+}
+
+
+.org {
+    font-style: italic;
+}
+
+a.org {
+    color: initial;
 }

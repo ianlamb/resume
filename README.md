@@ -13,24 +13,24 @@
 
 ## SUMMARY
 
-Senior Front-End/Full-Stack Engineer with a knack for building elegant, usable web interfaces. 10+ years of experience delivering solutions in enterprise environments. Effective and pragmatic leader for small teams.
+Senior Front-End/Full-Stack Engineer with a knack for building elegant web interfaces. 10+ years of experience delivering a variety of solutions in enterprise environments. Effective and pragmatic leader for small teams. UX/DX enthusiast.
 
 ## WORK EXPERIENCE
 
-### Senior Software Consultant @ Test Double
+### Senior Software Consultant @ <a href="https://testdouble.com/" class="org" target="_blank" rel="noopener noreferrer">Test Double</a>
 
 > Canada (Remote) | June 2022 – Present
 
 Client: ZipRecruiter
 
--   Developing features for the job seeker search experience with a cross-functional team that heavily utilizes data science and AB testing to validate improvements.
+-   Developing features for the high-traffic job search experience with a cross-functional team that heavily utilizes data science and AB testing to validate improvements.
 -   Implementing and championing a new design system component library used across the organization for higher quality and consistency.
 -   Mentoring junior engineers on writing clean and composable React, UI testing best practices, etc.
 -   Setting standards and best practices for the engineering org and improving front-end tooling to increase developer experience and code quality.
 
-### Senior Software Engineer @ Improbable
+### Senior Software Engineer @ <a href="https://www.improbable.io/" class="org" target="_blank" rel="noopener noreferrer">Improbable</a>
 
-> Canada (Remote) | January 2020 – May 2022
+> Canada (Remote) | January 2020 – May 2022 (2 years)
 
 Tools & Interfaces Tech Lead
 
@@ -48,7 +48,7 @@ Game Services Engineer
 -   Deployed services to Kubernetes clusters and managed AWS infrastructure with Terraform.
 -   Setup service metrics and alerts using Prometheus and Grafana to monitor service stability and troubleshoot live-ops issues.
 
-### Senior Software Engineer @ Blizzard Entertainment
+### Senior Software Engineer @ <a href="https://www.blizzard.com/" class="org" target="_blank" rel="noopener noreferrer">Blizzard Entertainment</a>
 
 > Irvine, CA | January 2016 – January 2020 (4 years)
 
@@ -60,7 +60,7 @@ Game Services Engineer
 -   Improved webpack development pipeline and built web components with Preact for the _StarCraft: Remastered_ in-game UI.
 -   Demonstrated the potential cost-efficiency of AWS Lambda/API Gateway by converting a low-traffic beta opt-in service from dedicated hosting, reducing running costs to coffee change while maintaining speed and availability.
 
-### Web UI Developer @ Cineplex Digital Networks
+### Web UI Developer @ <span class="org">Cineplex Digital Networks</span>
 
 > London, ON | June 2014 – December 2015 (1.5 years)
 
@@ -68,28 +68,28 @@ Game Services Engineer
 -   Developed features in a suite of Java microservices that managed a scalable network of devices (tablets), enabling operational functions like remote content delivery, reboots, heartbeat monitoring, etc.
 -   Wrote automated system tests that ran through every step of the software lifecycle from spinning up databases with seed data to running Android VMs and interacting with services, increasing release confidence and driving down regressions.
 
-### Solutions Developer @ GoodLife Fitness
+### Solutions Developer @ <span class="org">GoodLife Fitness</span>
 
 > London, ON | January 2013 – June 2014 (1.5 years)
 
 -   Led a sizable effort to redesign the club management system used by employees at over 300 locations. As well as refreshing the look and feel to be on-brand, we migrated away from VBScript which enabled clubs to upgrade their systems.
 -   Developed a digital, stream-lined 14-day Trial Membership sign-up which had a measurable increase in customer acquisition by lowering the barrier for first-timers to get into the fitness clubs.
 
-### Software Developer (co-op) @ BlackBerry
+### Software Developer (co-op) @ <span class="org">BlackBerry</span>
 
 > Waterloo, ON | May 2012 – August 2012 (4 months)
 
 -   Developed a tablet-optimised web app for managing config settings for SlipStream's compression proxy client.
 -   Performed debugging and analysis in a C++ based socket library.
 
-### Software Developer (co-op) @ Info-Tech Research Group
+### Software Developer (co-op) @ <span class="org">Info-Tech Research Group</span>
 
 > London, ON | September 2011 – December 2011 (4 months)
 
 -   Developed features and fixed bugs on the core client-facing website built with Ruby on Rails.
 -   Learned about modern development methodologies and tools such as Agile Scrum, CI/CD and Git SCM.
 
-### Web Developer (co-op) @ Lawson Research Institute
+### Web Developer (co-op) @ <span class="org">Lawson Research Institute</span>
 
 > London, ON | December 2010 – April 2011 (4 months)
 
@@ -98,7 +98,7 @@ Game Services Engineer
 
 ## EDUCATION
 
-### Computer Programmer Analyst @ Fanshawe College
+### Computer Programmer Analyst @ <a href="https://www.fanshawec.ca/" class="org" target="_blank" rel="noopener noreferrer">Fanshawe College</span>
 
 > London, ON | September 2009 – December 2012 (3 years)
 
