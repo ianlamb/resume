@@ -23,7 +23,7 @@ Senior Front-End/Full-Stack Engineer with a knack for building elegant web inter
 
 Data Management Frontend Engineer
 
-- Developing advanced internal data management tools to enable search & discovery of data assets, management of data governance, retention policies, etc
+- Developing advanced internal data management tools to enable search & discovery of data assets, lineage exploration, and management of data governance, retention policies, etc
 
 ### Senior Software Consultant @ <a href="https://testdouble.com/" class="org" target="_blank" rel="noopener noreferrer">Test Double</a>
 
