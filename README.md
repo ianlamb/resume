@@ -17,16 +17,24 @@ Senior Front-End/Full-Stack Engineer with a knack for building elegant web inter
 
 ## WORK EXPERIENCE
 
+### Senior Software Engineer @ <a href="https://www.airbnb.com/" class="org" target="_blank" rel="noopener noreferrer">Airbnb</a>
+
+> Canada (Remote) | August 2024 - Present
+
+Data Management Frontend Engineer
+
+- Developing advanced internal data management tools to enable search & discovery of data assets, management of data governance, retention policies, etc
+
 ### Senior Software Consultant @ <a href="https://testdouble.com/" class="org" target="_blank" rel="noopener noreferrer">Test Double</a>
 
-> Canada (Remote) | June 2022 – Present
+> Canada (Remote) | June 2022 – June 2024
 
 Client: ZipRecruiter
 
--   Developing features for the high-traffic job search experience with a cross-functional team that heavily utilizes data science and AB testing to validate improvements.
--   Implementing and championing a new design system component library used across the organization for higher quality and consistency.
--   Mentoring junior engineers on writing clean and composable React, UI testing best practices, etc.
--   Setting standards and best practices for the engineering org and improving front-end tooling to increase developer experience and code quality.
+-   Developed features for the high-traffic job search experience with a cross-functional team that heavily utilized data science and AB testing to validate improvements.
+-   Implemented and championed a new design system component library used across the organization for higher productivity and UI consistency.
+-   Mentored junior engineers on writing clean and composable React, UI testing best practices, etc.
+-   Set standards and best practices for the engineering org and improved front-end tooling to increase developer experience and code quality.
 
 ### Senior Software Engineer @ <a href="https://www.improbable.io/" class="org" target="_blank" rel="noopener noreferrer">Improbable</a>
 
