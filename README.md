@@ -2,7 +2,7 @@
 
 <div class="contact">
   <div>
-    <div>Senior Software Engineer & Consultant</div>
+    <div>Senior Software Engineer</div>
     <div>British Columbia, Canada</div>
   </div>
   <div>
